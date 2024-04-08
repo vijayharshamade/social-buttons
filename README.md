@@ -125,8 +125,6 @@ Use these files to complete the implementation:
 <summary>Font-families</summary>
 
 - Roboto
-- 
-
 
 Coding practice -2 Boxes
 
