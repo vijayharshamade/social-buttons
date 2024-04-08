@@ -126,6 +126,10 @@ Use these files to complete the implementation:
 
 - Roboto
 
+> - **Do not remove the pre-filled code**
+> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
+
 Coding practice -2 Boxes
 
 In this project, let's build a **Boxes** page by applying the concepts we have learned till now.
